@@ -10,4 +10,6 @@ Simple DIY reflow soldering oven controller with 16x2 LCD, Encoder &amp; K therm
  
  Simple PCB for make at home (one layer, thick routes)
  
- Current project etap: PCB design
+ Current project etap: Writing code.
+
+![](https://raw.githubusercontent.com/virtmedia/Reflow-Oven/master/IMG_6850.JPG)
